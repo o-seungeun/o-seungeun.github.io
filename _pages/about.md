@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Ph.D. Student in IT Engineering at Sookmyung Women’s University**
+subtitle: Ph.D. Student in IT Engineering at Sookmyung Women’s University
 
 profile:
   align: right
